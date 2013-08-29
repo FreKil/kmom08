@@ -26,7 +26,7 @@ $html = <<<input
 	</p>
 	<p>
 		Här är en länk till mitt MVC - Ramverk, Drygia. (Öppnas i nytt fönster)<br />
-		<a href="www.student.bth.se/~frki13/php_mvc/Projekt_Drygia" target="_blank">Drygia</a>
+		<a href="http://www.student.bth.se/~frki13/php_mvc/Projekt_Drygia" target="_blank">Drygia</a>
 	</p>
 </div>
 input;
